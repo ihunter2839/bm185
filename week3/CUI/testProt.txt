@@ -1,0 +1,10 @@
+#Replicon Name	Replicon Accession	Start	Stop	Strand	GeneID	Locus	Locus tag	Protein product	Length	COG(s)	Protein name
+chr	NC_000913.3	190	255	+	944742	thrL	b0001	NP_414542.1	21	-	thr operon leader peptide
+chr	NC_000913.3	337	2799	+	945803	thrA	b0002	NP_414543.1	820	-	Bifunctional aspartokinase/homoserine dehydrogenase 1
+chr	NC_000913.3	2801	3733	+	947498	thrB	b0003	NP_414544.1	310	-	homoserine kinase
+chr	NC_000913.3	3734	5020	+	945198	thrC	b0004	NP_414545.1	428	-	L-threonine synthase
+chr	NC_000913.3	5234	5530	+	944747	yaaX	b0005	NP_414546.1	98	-	DUF2502 family putative periplasmic protein
+chr	NC_000913.3	5683	6459	-	944749	yaaA	b0006	NP_414547.1	258	-	peroxide resistance protein, lowers intracellular iron
+chr	NC_000913.3	6529	7959	-	944745	yaaJ	b0007	NP_414548.1	476	-	putative transporter
+chr	NC_000913.3	8238	9191	+	944748	talB	b0008	NP_414549.1	317	-	transaldolase B
+chr	NC_000913.3	9306	9893	+	944760	mog	b0009	NP_414550.1	195	-	molybdochelatase incorporating molybdenum into molybdopterin
