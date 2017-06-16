@@ -1,0 +1,3 @@
+Change parse.py to generate gene and exon table in order of left coordinate to allow for easy look up
+
+Change exonData structure to dict to allow sorting based on position
